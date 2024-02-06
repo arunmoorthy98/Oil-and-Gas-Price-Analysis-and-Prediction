@@ -2,6 +2,8 @@
 
 # Fuel Price Analysis and Prediction
 
+
+
 This repository contains the code and datasets for analyzing and predicting fuel prices, specifically Brent Oil, Crude Oil, Natural Gas, and Heating Oil. The project focuses on creating models to predict the closing prices of these fuels based on their opening, highest, and lowest prices.
 
 # Dataset
@@ -56,10 +58,10 @@ If desired, run the notebooks in a Jupyter environment to reproduce the analysis
 The trained models are available in the models directory. You can load these models and use them for predicting the average Brent Oil and Heating Oil prices based on Crude Oil prices.
 Please note that this project assumes basic knowledge of data analysis and machine learning techniques. It is recommended to have a Python environment with necessary dependencies installed.
 
-#License
+# License
 The code and datasets in this repository are provided under the MIT License. You are free to use, modify, and distribute the code and datasets for personal and commercial purposes.
 
-Acknowledgments
+# Acknowledgments
 If you use this project or find it helpful, it would be appreciated if you could acknowledge it by citing this repository or providing a link to it. Additionally, any contributions or improvements to the project are welcome through pull requests.
 
 # NOTE 
